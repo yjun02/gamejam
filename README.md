@@ -1,6 +1,6 @@
 # gamejam
 ---
 
-/root
-  ᄂ🗂️ (name)
+/root    
+  ᄂ🗂️ (name)    
     ᄂ📃 (README.md)
